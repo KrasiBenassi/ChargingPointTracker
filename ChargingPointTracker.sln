@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChargingPointTracker", "ChargingPointTracker\ChargingPointTracker.csproj", "{3858A5F9-AFC0-443F-ADC3-0C7BC36C4305}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChargingPointTracker.DataLayer", "ChargingPointTracker.DataLayer\ChargingPointTracker.DataLayer.csproj", "{847CA0FC-5796-4274-A3D4-1C7AFC377B54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChargingPointTracker.Common", "ChargingPointTracker.Common\ChargingPointTracker.Common.csproj", "{B666A2D9-00EB-45AD-8F36-522C7B2D1A77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3858A5F9-AFC0-443F-ADC3-0C7BC36C4305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3858A5F9-AFC0-443F-ADC3-0C7BC36C4305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3858A5F9-AFC0-443F-ADC3-0C7BC36C4305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3858A5F9-AFC0-443F-ADC3-0C7BC36C4305}.Release|Any CPU.Build.0 = Release|Any CPU
+		{847CA0FC-5796-4274-A3D4-1C7AFC377B54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{847CA0FC-5796-4274-A3D4-1C7AFC377B54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{847CA0FC-5796-4274-A3D4-1C7AFC377B54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{847CA0FC-5796-4274-A3D4-1C7AFC377B54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B666A2D9-00EB-45AD-8F36-522C7B2D1A77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B666A2D9-00EB-45AD-8F36-522C7B2D1A77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B666A2D9-00EB-45AD-8F36-522C7B2D1A77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B666A2D9-00EB-45AD-8F36-522C7B2D1A77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7DECED0-DEFD-42AA-88DE-B398E0EC6690}
+	EndGlobalSection
+EndGlobal
